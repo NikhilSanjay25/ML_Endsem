@@ -1,0 +1,5 @@
+venv/
+classification_dataset/
+.pth
+.zip
+

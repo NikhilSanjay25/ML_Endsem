@@ -1,0 +1,21 @@
+
+scikit-learn
+pandas
+pillow
+opencv-python
+matplotlib
+seaborn
+lime
+tqdm
+numpy
+scipy
+scikit-image
+networkx
+psutil
+safetensors
+
+# Optional / dev packages
+ipython==9.6.0
+ipykernel==6.30.1
+jupyter-client==8.6.3
+jupyter-core==5.8.1
