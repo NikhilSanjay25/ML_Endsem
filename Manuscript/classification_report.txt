@@ -1,0 +1,22 @@
+                            precision    recall  f1-score   support
+
+ anold-chiari-malformation       1.00      0.67      0.80         3
+            arachnoid-cyst       0.93      1.00      0.96        13
+     cerebellah-hypoplasia       0.80      1.00      0.89        16
+             colphocephaly       1.00      0.91      0.95        11
+             encephalocele       1.00      0.93      0.97        15
+         holoprosencephaly       1.00      1.00      1.00         4
+             hydracenphaly       1.00      1.00      1.00         2
+    intracranial-hemorrdge       0.89      1.00      0.94         8
+        intracranial-tumor       1.00      1.00      1.00         2
+                   m-magna       1.00      1.00      1.00         4
+     mild-ventriculomegaly       1.00      1.00      1.00        24
+ moderate-ventriculomegaly       0.96      0.85      0.90        26
+                    normal       1.00      1.00      1.00        24
+              polencephaly       1.00      1.00      1.00         7
+   severe-ventriculomegaly       0.95      1.00      0.97        19
+             vein-of-galen       0.00      0.00      0.00         1
+
+                  accuracy                           0.96       179
+                 macro avg       0.91      0.90      0.90       179
+              weighted avg       0.95      0.96      0.95       179
